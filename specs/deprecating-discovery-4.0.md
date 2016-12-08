@@ -333,8 +333,8 @@ handler to  handle addition/deletion of publishers.
 
 ##4.1     Assignee(s)
 
-* Nipa Kumar – All C++ Discovery Server Clients
-* Santosh G –  All python Discovery Server Clients
+* Nipa Kumar – All Discovery Server Clients
+* Sundaresan Rajangam –  python/c++ sandesh librabry
 
 #5 Performance and Scaling Impact
 None
